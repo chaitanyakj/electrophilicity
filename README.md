@@ -12,4 +12,4 @@ Output (in the same folder as `<filename>.log`):
 `path/to/<filname>_local_electro.csv`
 `path/to/<filename>_global_electro.txt`
 
-In the example I've used for reference, "`<filename>`" is "`thiazole`".
+In the example I've used for reference, "`<filename>`" is "`ATZ`".
