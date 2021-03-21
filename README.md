@@ -1,15 +1,15 @@
-### Calculate local and global electrophilicity
+Write global and local electrophilicity properties from NBO Charges.
 
 Usage:
 
-`python write_electro_properties.py -p path/to/<filename>.log`
+python write_electro_nbo.py -p path/to/<filename>.log
 
-`path/to/filename.log` should be supplied relative to the position of
-`write_electro_properties.py` script.
+path/to/filename.log should be supplied relative to the position of
+write_electro_properties.py script.
 
-Output (in the same folder as `<filename>.log`):
+Output (in the same folder as <filename>.log):
 
-`path/to/<filname>_local_electro.csv`
-`path/to/<filename>_global_electro.txt`
+path/to/<filname>_electro.csv
 
-In the example I've used for reference, "`<filename>`" is "`ATZ`".
+In the example I've used for reference, "<filename>" is "thiazole".
+
